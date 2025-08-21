@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "livewire/livewire": "^v3.0.0"
+        "livewire/livewire": "dev-main"
     },
     "extra": {
         "laravel": {
